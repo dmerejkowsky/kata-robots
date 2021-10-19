@@ -45,7 +45,7 @@ FAILED test_started_robots_have_a_name
     AssertionError: name should not be empty
 
 FAILED test_name_does_not_change_when_rebooted
-    AttributeError: 'Robot' object has no attribute...
+    AttributeError: 'Robot' object has no attribute 
 
 FAILED test_name_changes_after_reset
     AttributeError: 'Robot' object has no attribute 'reset'
