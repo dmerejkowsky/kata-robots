@@ -1,5 +1,7 @@
 # The robots kata
 
+*Goal: learn the basics of Object Oriented Programming in Python*
+
 # Specifications
 
 Your are a developer inside a robot factory. Your task is to manage robot settings.
